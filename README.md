@@ -1,3 +1,5 @@
+<img width="681" height="678" alt="image" src="https://github.com/user-attachments/assets/26dc5356-a518-4cd9-a2f6-d7299fed1554" />
+
 # TreeTracker Impact Token Microservice
 
 A production-ready microservice for managing Impact Tokens in the TreeTracker ecosystem with Hyperledger Fabric blockchain integration.
